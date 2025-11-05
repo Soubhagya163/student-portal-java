@@ -27,5 +27,5 @@ A console-based Student Management System that allows **Admins** to manage stude
 ## ⚙️ How to Run Locally
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/student-portal-system.git
+   git clone https://github.com/Soubhagya163/student-portal-system.git
    cd student-portal-system
